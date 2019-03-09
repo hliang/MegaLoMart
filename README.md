@@ -6,7 +6,7 @@ A model of store inventory system
 ### For Customer
 Tor start shopping, just run `node storeCustomer.js`, and choose your items, then pay (of coz)
 
-![customer demo](megalo-customer.gif)
+![customer demo](img/megalo-customer.gif)
 
 Enjoy!
 
